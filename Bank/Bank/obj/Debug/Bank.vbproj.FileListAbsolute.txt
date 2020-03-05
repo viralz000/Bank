@@ -1,0 +1,11 @@
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.vbprojAssemblyReference.cache
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.cache
+C:\Users\viral\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\viral\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\viral\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\viral\source\repos\Bank\Bank\bin\Debug\Bank.xml
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\viral\source\repos\Bank\Bank\obj\Debug\Bank.pdb
